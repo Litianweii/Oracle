@@ -9,4 +9,5 @@
 ![](https://github.com/Litianweii/Oracle/blob/master/test1/_%5D7%7D0%40NKNQBIPP12N4%40W6%7B5.png)<br>
 查询二：
 ![](https://github.com/Litianweii/Oracle/blob/master/test1/3XGZ%40BNZ%25XRM~%24E39L%24%40%5D3L.png)<br>
-我认为查询一比查询二优，因为查询1除了“consistent gets=10”比查询二的“consistent gets=9”稍差，其他参数都优于查询二。从分析两个SQL语句可以看出，查询1是先过滤后汇总。参与汇总与计算的数据量少。而查询2是先汇总后过滤，参与汇总与计算的数据量多。
+我认为查询一比查询二优，因为查询1除了“consistent gets=10”比查询二的“consistent gets=9”稍差，其他参数都优于查询二。从分析两个SQL语句可以看出，查询1是先过滤后汇总。参与汇总与计算的数据量少。而查询2是先汇总后过滤，参与汇总与计算的数据量多。<br>
+ 自定义查询语句：
