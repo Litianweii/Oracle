@@ -6,4 +6,4 @@
 设计自己的查询语句，并作相应的分析，查询语句不能太简单，<br>
 - 教材中的查询语句
 ![](https://github.com/Litianweii/Oracle/blob/master/test1/3XGZ%40BNZ%25XRM~%24E39L%24%40%5D3L.png)<br>
-![](https://github.com/Litianweii/Oracle/blob/master/test1/GCRL)NT%40)2V(1JSST~V%7B%60%5D5.png)
+![](https://github.com/Litianweii/Oracle/blob/master/test1/_%5D7%7D0%40NKNQBIPP12N4%40W6%7B5.png)
