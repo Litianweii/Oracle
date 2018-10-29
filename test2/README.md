@@ -6,5 +6,5 @@ Oracle有一个开发者角色resource，可以创建表、过程、触发器等
 最后测试：用新用户new_user连接数据库、创建表，插入数据，创建视图，查询表和视图的数据。<br>
 ![](https://github.com/Litianweii/Oracle/blob/master/test2/20181029150454.png)<br>
 ![](https://github.com/Litianweii/Oracle/blob/master/test2/20181029150946.png)<br>
-![]()<br>
+![](https://github.com/Litianweii/Oracle/blob/master/test2/20181029151036.png)<br>
 ![]()<br>
