@@ -15,3 +15,6 @@
 ![](https://github.com/Litianweii/Oracle/blob/master/test3/4.png) <br>
 ![](https://github.com/Litianweii/Oracle/blob/master/test3/5.png) <br>
 ![](https://github.com/Litianweii/Oracle/blob/master/test3/6.png) <br>
+
+## 区别
+增加了三个逻辑表分区，在查询的时候就不用查询整张表，而是根据分区来查询，这样就会更省时间
