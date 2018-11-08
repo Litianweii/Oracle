@@ -11,7 +11,7 @@
 进行分区与不分区的对比实验。<br>
 ![](https://github.com/Litianweii/Oracle/blob/master/test3/1.png) <br>
 ![](https://github.com/Litianweii/Oracle/blob/master/test3/2.png) <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
+![](https://github.com/Litianweii/Oracle/blob/master/test3/3.png) <br>
+![](https://github.com/Litianweii/Oracle/blob/master/test3/4.png) <br>
+![](https://github.com/Litianweii/Oracle/blob/master/test3/5.png) <br>
+![](https://github.com/Litianweii/Oracle/blob/master/test3/6.png) <br>
