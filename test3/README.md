@@ -10,7 +10,7 @@
 写出插入数据的语句和查询数据的语句，并分析语句的执行计划。<br>
 进行分区与不分区的对比实验。<br>
 ![](https://github.com/Litianweii/Oracle/blob/master/test3/1.png) <br>
-![]() <br>
+![](https://github.com/Litianweii/Oracle/blob/master/test3/2.png) <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
