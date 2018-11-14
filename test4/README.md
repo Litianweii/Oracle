@@ -6,3 +6,10 @@
 5.查询出所有空订单，即没有订单详单的订单。<br>
 6.查询部门表，同时显示部门的负责人姓名。<br>
 7.查询部门表，统计每个部门的销售总金额。<br>
+![](https://github.com/Litianweii/Oracle/blob/master/test4/a.png)<br>
+![](https://github.com/Litianweii/Oracle/blob/master/test4/b.png)<br>
+![](https://github.com/Litianweii/Oracle/blob/master/test4/c.png)<br>
+![](https://github.com/Litianweii/Oracle/blob/master/test4/d.png)<br>
+![](https://github.com/Litianweii/Oracle/blob/master/test4/e.png)<br>
+![](https://github.com/Litianweii/Oracle/blob/master/test4/f.png)<br>
+![](https://github.com/Litianweii/Oracle/blob/master/test4/g.png)<br>
