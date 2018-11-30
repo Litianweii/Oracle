@@ -25,7 +25,7 @@
 select count(*) from orders;
 select MyPack.Get_SaleAmount(11) AS 部门11应收金额,MyPack.Get_SaleAmount(12) AS 部门12应收金额 from dual;
 ```
-i[]();
+![]();
 ```sql
 set serveroutput on
 DECLARE
@@ -37,4 +37,4 @@ BEGIN
   MYPACK.Get_Employees (  V_EMPLOYEE_ID => V_EMPLOYEE_ID) ;    
 END;
 ```
-i[]();
+![]();
